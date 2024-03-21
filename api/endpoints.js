@@ -1,6 +1,6 @@
 // API Key-urile NU ar trebui sa fie stocate in format text, nu este sigur.
 // Din pacate, fara un server, nu avem cum sa fim 100% safe, dar API-ul fiind gratuit, in cel mai rau caz cineva ne va bloca aplicatia temporar.
-const API_KEY = "ea3e3338d6a2f4fe6d246649169f3479";
+const API_KEY = "fc939fd77ea2d21ce7e9262f4f6cb604";
 
 // Construim link-urile (andpoint-urile) severelor de la care vom primi date.
 function getCurrentWeatherEndpoint(city) {
